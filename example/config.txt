@@ -1,0 +1,2 @@
+Prefix plugins/MRU/example/
+Plugin MRU inputfile parameters.txt outputfile output.txt
